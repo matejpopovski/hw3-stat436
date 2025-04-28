@@ -38,4 +38,4 @@ Later, I separately applied prcomp() on the final numeric matrix to support bipl
 This project demonstrates how PCA can reveal hidden structure in multivariate air quality data. Dimensionality reduction exposed geographic pollution patterns that would be difficult to observe otherwise.
 By combining a traditional scatterplot, a biplot with feature loadings, and a clustered biplot based on k-means, I uncovered nuanced patterns of pollution concentration across NYC neighborhoods.
 Together, these visualizations offer a clear, data-driven basis for understanding urban environmental variability and can support public health and urban planning initiatives.
-![image](https://github.com/user-attachments/assets/564b19a3-ecb7-40a5-a45f-72e82d391eea)
+
